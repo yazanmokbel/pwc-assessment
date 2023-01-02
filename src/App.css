@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.input-search {
+position: fixed;
+  top: 15px ;
+  right: 200px;
+  z-index: 99;
+}
+
+.dropdown-list {
+  width: 200px;
+  padding-top: 20px;
+}
+.input-search{
+  width: 200px;
+}
+.item-list{
+  padding: 10px 0;
+}
